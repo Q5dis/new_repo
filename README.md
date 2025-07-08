@@ -9,5 +9,5 @@
 <div align="center">
   
   # 🐈‍⬛ 개인 블로그 주소 
-  ###### /nhttps://q5dis09.tistory.com/
+  ###### https://q5dis09.tistory.com/
 </div>

@@ -7,5 +7,6 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Q5dis&layout=compact&border_color=ffffff)
 </div>
 <div>
-  ![Image](https://github.com/user-attachments/assets/2c27c2b8-e095-4e29-8841-96fd7079c789)
+  [[![Image](https://github.com/user-attachments/assets/2c27c2b8-e095-4e29-8841-96fd7079c789)](https://github.com/Q5dis/new_repo/issues/1#issue-3211033409)](https://github.com/Q5dis/new_repo/issues/1#issue-3211033409)
+  
 </div>
